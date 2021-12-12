@@ -9,4 +9,4 @@ Mi nombre es **Iosef Saiegh** y soy desarollador en el framework _Flutter_ y est
 - 💬 _Hablame:_ si tenes alguna idea para algun proyecto genial en Flutter
 - 📫 _Me puedes hablar en:_ mi casilla de Mail: saiegh.saiegh@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iosefsaiegh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iosefsaiegh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
