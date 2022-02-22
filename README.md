@@ -11,4 +11,3 @@ Mi nombre es **Iosef Saiegh** y soy desarollador en el framework _Flutter_ y est
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iosefsaiegh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iosefsaiegh&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Julia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iosefsaiegh&theme=tokyonight&v=2)](https://github.com/anuraghazra/github-readme-stats)
